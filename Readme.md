@@ -57,7 +57,8 @@ IDE con el que te sientas más familiarizado.
 * Tener instalado Git para la administración del versionado y/o clonación del repositorio remoto.
 
 #### Levantando nuestro proyecto
-  * ![Reportes](https://github.com/jotamvillegas/ChallengeVeritran/src/main/resources/readmeImages/results.png)
+  * ![Reportes](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/results.png)
+    
 
 #### SetUp
 * Descargar el [ChromeDriver](https://chromedriver.chromium.org/) según la versión del navegador que tengas. 
