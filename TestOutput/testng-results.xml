@@ -2,116 +2,116 @@
 <testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite Global" duration-ms="126694" started-at="2021-01-16T14:52:53 ART" finished-at="2021-01-16T14:55:00 ART">
+  <suite name="Suite Global" duration-ms="179667" started-at="2021-01-16T17:09:14 ART" finished-at="2021-01-16T17:12:13 ART">
     <groups>
     </groups>
-    <test name="Load Home Page" duration-ms="7278" started-at="2021-01-16T14:52:53 ART" finished-at="2021-01-16T14:53:00 ART">
+    <test name="Load Home Page" duration-ms="7629" started-at="2021-01-16T17:09:14 ART" finished-at="2021-01-16T17:09:21 ART">
       <class name="com.project.pom.Test_US01_ProductSearch.TestLoadHomePage">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="setUp" is-config="true" duration-ms="4611" started-at="2021-01-16T14:52:53 ART" finished-at="2021-01-16T14:52:57 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="setUp" is-config="true" duration-ms="4998" started-at="2021-01-16T17:09:14 ART" finished-at="2021-01-16T17:09:19 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoadHomePage()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="LoadHomePage" duration-ms="2502" started-at="2021-01-16T14:52:57 ART" finished-at="2021-01-16T14:53:00 ART">
+        <test-method status="PASS" signature="LoadHomePage()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="LoadHomePage" duration-ms="2507" started-at="2021-01-16T17:09:19 ART" finished-at="2021-01-16T17:09:21 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadHomePage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="tearDown" is-config="true" duration-ms="129" started-at="2021-01-16T14:53:00 ART" finished-at="2021-01-16T14:53:00 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestLoadHomePage@5f341870]" name="tearDown" is-config="true" duration-ms="84" started-at="2021-01-16T17:09:21 ART" finished-at="2021-01-16T17:09:21 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US01_ProductSearch.TestLoadHomePage -->
     </test> <!-- Load Home Page -->
-    <test name="Search Results" duration-ms="8691" started-at="2021-01-16T14:53:00 ART" finished-at="2021-01-16T14:53:09 ART">
+    <test name="Search Results" duration-ms="9770" started-at="2021-01-16T17:09:21 ART" finished-at="2021-01-16T17:09:31 ART">
       <class name="com.project.pom.Test_US01_ProductSearch.TestSearchResults">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="setUp" is-config="true" duration-ms="3047" started-at="2021-01-16T14:53:00 ART" finished-at="2021-01-16T14:53:03 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="setUp" is-config="true" duration-ms="3405" started-at="2021-01-16T17:09:21 ART" finished-at="2021-01-16T17:09:25 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="SearchResultds()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="SearchResultds" duration-ms="5457" started-at="2021-01-16T14:53:03 ART" finished-at="2021-01-16T14:53:09 ART">
+        <test-method status="PASS" signature="SearchResultds()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="SearchResultds" duration-ms="6265" started-at="2021-01-16T17:09:25 ART" finished-at="2021-01-16T17:09:31 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchResultds -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="tearDown" is-config="true" duration-ms="186" started-at="2021-01-16T14:53:09 ART" finished-at="2021-01-16T14:53:09 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestSearchResults@73846619]" name="tearDown" is-config="true" duration-ms="98" started-at="2021-01-16T17:09:31 ART" finished-at="2021-01-16T17:09:31 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US01_ProductSearch.TestSearchResults -->
     </test> <!-- Search Results -->
-    <test name="Page Selected From Paginator" duration-ms="12701" started-at="2021-01-16T14:53:09 ART" finished-at="2021-01-16T14:53:22 ART">
+    <test name="Page Selected From Paginator" duration-ms="11974" started-at="2021-01-16T17:09:31 ART" finished-at="2021-01-16T17:09:43 ART">
       <class name="com.project.pom.Test_US01_ProductSearch.TestPageSelected">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="setUp" is-config="true" duration-ms="3946" started-at="2021-01-16T14:53:09 ART" finished-at="2021-01-16T14:53:13 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="setUp" is-config="true" duration-ms="3088" started-at="2021-01-16T17:09:31 ART" finished-at="2021-01-16T17:09:34 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="PageSelected()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="PageSelected" duration-ms="8659" started-at="2021-01-16T14:53:13 ART" finished-at="2021-01-16T14:53:21 ART">
+        <test-method status="PASS" signature="PageSelected()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="PageSelected" duration-ms="8779" started-at="2021-01-16T17:09:34 ART" finished-at="2021-01-16T17:09:43 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageSelected -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="tearDown" is-config="true" duration-ms="95" started-at="2021-01-16T14:53:21 ART" finished-at="2021-01-16T14:53:22 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestPageSelected@49993335]" name="tearDown" is-config="true" duration-ms="103" started-at="2021-01-16T17:09:43 ART" finished-at="2021-01-16T17:09:43 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US01_ProductSearch.TestPageSelected -->
     </test> <!-- Page Selected From Paginator -->
-    <test name="Product Search Drone" duration-ms="19647" started-at="2021-01-16T14:53:22 ART" finished-at="2021-01-16T14:53:41 ART">
+    <test name="Product Search Drone" duration-ms="21063" started-at="2021-01-16T17:09:43 ART" finished-at="2021-01-16T17:10:04 ART">
       <class name="com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="setUp" is-config="true" duration-ms="2901" started-at="2021-01-16T14:53:22 ART" finished-at="2021-01-16T14:53:24 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="setUp" is-config="true" duration-ms="3818" started-at="2021-01-16T17:09:43 ART" finished-at="2021-01-16T17:09:47 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="ProductSearchDrone()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="ProductSearchDrone" duration-ms="16587" started-at="2021-01-16T14:53:24 ART" finished-at="2021-01-16T14:53:41 ART">
+        <test-method status="PASS" signature="ProductSearchDrone()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="ProductSearchDrone" duration-ms="17069" started-at="2021-01-16T17:09:47 ART" finished-at="2021-01-16T17:10:04 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProductSearchDrone -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="tearDown" is-config="true" duration-ms="156" started-at="2021-01-16T14:53:41 ART" finished-at="2021-01-16T14:53:41 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone@dc24521]" name="tearDown" is-config="true" duration-ms="175" started-at="2021-01-16T17:10:04 ART" finished-at="2021-01-16T17:10:04 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone -->
     </test> <!-- Product Search Drone -->
-    <test name="Add Product To Shopping Cart" duration-ms="24802" started-at="2021-01-16T14:53:41 ART" finished-at="2021-01-16T14:54:06 ART">
+    <test name="Add Product To Shopping Cart" duration-ms="24204" started-at="2021-01-16T17:10:04 ART" finished-at="2021-01-16T17:10:28 ART">
       <class name="com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="setUp" is-config="true" duration-ms="3621" started-at="2021-01-16T14:53:41 ART" finished-at="2021-01-16T14:53:45 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="setUp" is-config="true" duration-ms="3325" started-at="2021-01-16T17:10:04 ART" finished-at="2021-01-16T17:10:07 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="ShoppingCart" duration-ms="21037" started-at="2021-01-16T14:53:45 ART" finished-at="2021-01-16T14:54:06 ART">
+        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="ShoppingCart" duration-ms="20699" started-at="2021-01-16T17:10:07 ART" finished-at="2021-01-16T17:10:28 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ShoppingCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="tearDown" is-config="true" duration-ms="142" started-at="2021-01-16T14:54:06 ART" finished-at="2021-01-16T14:54:06 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart@2038ae61]" name="tearDown" is-config="true" duration-ms="178" started-at="2021-01-16T17:10:28 ART" finished-at="2021-01-16T17:10:28 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart -->
     </test> <!-- Add Product To Shopping Cart -->
-    <test name="Compare the product value with the product value in the shopping cart" duration-ms="26000" started-at="2021-01-16T14:54:06 ART" finished-at="2021-01-16T14:54:32 ART">
+    <test name="Compare the product value with the product value in the shopping cart" duration-ms="76338" started-at="2021-01-16T17:10:28 ART" finished-at="2021-01-16T17:11:45 ART">
       <class name="com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="setUp" is-config="true" duration-ms="4082" started-at="2021-01-16T14:54:06 ART" finished-at="2021-01-16T14:54:10 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="setUp" is-config="true" duration-ms="8534" started-at="2021-01-16T17:10:28 ART" finished-at="2021-01-16T17:10:37 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="ShoppingCart" duration-ms="21807" started-at="2021-01-16T14:54:10 ART" finished-at="2021-01-16T14:54:32 ART">
+        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="ShoppingCart" duration-ms="67633" started-at="2021-01-16T17:10:37 ART" finished-at="2021-01-16T17:11:44 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ShoppingCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="tearDown" is-config="true" duration-ms="110" started-at="2021-01-16T14:54:32 ART" finished-at="2021-01-16T14:54:32 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart@a67c67e]" name="tearDown" is-config="true" duration-ms="166" started-at="2021-01-16T17:11:44 ART" finished-at="2021-01-16T17:11:45 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart -->
     </test> <!-- Compare the product value with the product value in the shopping cart -->
-    <test name="Remove product from shopping cart" duration-ms="27550" started-at="2021-01-16T14:54:32 ART" finished-at="2021-01-16T14:55:00 ART">
+    <test name="Remove product from shopping cart" duration-ms="28651" started-at="2021-01-16T17:11:45 ART" finished-at="2021-01-16T17:12:13 ART">
       <class name="com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="setUp" is-config="true" duration-ms="3761" started-at="2021-01-16T14:54:32 ART" finished-at="2021-01-16T14:54:36 ART">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="setUp" is-config="true" duration-ms="3608" started-at="2021-01-16T17:11:45 ART" finished-at="2021-01-16T17:11:48 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="ShoppingCart" duration-ms="23687" started-at="2021-01-16T14:54:36 ART" finished-at="2021-01-16T14:54:59 ART">
+        <test-method status="PASS" signature="ShoppingCart()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="ShoppingCart" duration-ms="24833" started-at="2021-01-16T17:11:48 ART" finished-at="2021-01-16T17:12:13 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ShoppingCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="tearDown" is-config="true" duration-ms="101" started-at="2021-01-16T14:54:59 ART" finished-at="2021-01-16T14:55:00 ART">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart@5ec0a365]" name="tearDown" is-config="true" duration-ms="209" started-at="2021-01-16T17:12:13 ART" finished-at="2021-01-16T17:12:13 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
