@@ -24,7 +24,7 @@ public class PageProductDetails extends General {
         String value = "", idAtributte = "";
         WebElement element = findElement(ATRIBUTTE_FINAL_PRICE);
         idAtributte = element.getAttribute("ID");
-        if (element.getAttribute("ID").equals("priceblock_saleprice_row")){
+        if (idAtributte.equals("priceblock_saleprice_row")){
             setLocatorToFinalPrice("priceblock_saleprice_row");
             String fp = getText(FINAL_PRICE);
             value = fp.substring(4);

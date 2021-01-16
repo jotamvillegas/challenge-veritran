@@ -2517,3 +2517,102 @@
 15-01-2021 20:19:07:815 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
 15-01-2021 20:19:08:331 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
 15-01-2021 20:19:09:787 [main] com.project.pom.PagePortarlWeb.PageShoppingCart - Entering to shopping cart
+16-01-2021 14:45:21:770 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:45:28:687 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:45:31:116 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:45:33:900 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:45:34:225 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:45:38:096 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:45:40:694 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:45:43:197 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:45:43:456 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:45:44:069 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:45:50:232 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:45:52:674 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:45:55:305 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:45:55:649 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:45:56:130 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:46:00:191 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:46:05:557 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:46:11:332 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:46:13:756 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:46:16:877 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:46:17:109 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:46:17:643 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:46:21:009 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:46:26:266 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:46:27:781 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:46:30:597 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:46:31:046 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:46:34:788 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:46:37:208 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:46:40:329 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:46:40:629 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:46:41:145 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:46:44:501 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:46:50:026 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:46:51:574 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:46:54:296 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:46:54:672 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:46:56:577 [main] com.project.pom.PagePortarlWeb.PageShoppingCart - Entering to shopping cart
+16-01-2021 14:47:01:308 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:47:03:782 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:47:07:102 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:47:07:395 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:47:08:058 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:47:11:663 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:47:16:831 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:47:18:221 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:47:20:755 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:47:21:502 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:47:23:049 [main] com.project.pom.PagePortarlWeb.PageShoppingCart - Entering to shopping cart
+16-01-2021 14:52:58:150 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:53:03:837 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:53:06:252 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:53:08:818 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:53:09:120 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:53:13:511 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:53:15:957 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:53:18:809 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:53:19:109 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:53:19:632 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:53:25:093 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:53:27:495 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:53:30:272 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:53:30:593 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:53:31:037 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:53:34:568 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:53:40:057 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:53:41:480 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:53:45:626 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:53:48:102 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:53:51:192 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:53:51:488 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:53:51:934 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:53:55:285 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:54:00:865 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:54:02:310 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:54:05:792 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:54:06:256 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:54:10:760 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:54:13:209 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:54:15:879 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:54:16:192 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:54:16:827 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:54:20:277 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:54:25:550 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:54:27:026 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:54:29:734 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:54:30:185 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:54:32:089 [main] com.project.pom.PagePortarlWeb.PageShoppingCart - Entering to shopping cart
+16-01-2021 14:54:36:428 [main] com.project.pom.PagePortarlWeb.PageHome - Page Loaded correctly
+16-01-2021 14:54:38:832 [main] com.project.pom.PagePortarlWeb.PageSearch - Product name input
+16-01-2021 14:54:41:339 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the button search
+16-01-2021 14:54:41:707 [main] com.project.pom.PagePortarlWeb.PageSearch - The searchs return 48 results
+16-01-2021 14:54:42:211 [main] com.project.pom.PagePortarlWeb.PageSearch - Click on the page number 2
+16-01-2021 14:54:45:754 [main] com.project.pom.PagePortarlWeb.PageSearch - the results product value was saved in the file .xlsx
+16-01-2021 14:54:50:821 [main] com.project.pom.PagePortarlWeb.PageSearch - Select product nro 3of the product list
+16-01-2021 14:54:52:233 [main] com.project.pom.PagePortarlWeb.PageProductDetails - the details product value was saved in the file .xlsx
+16-01-2021 14:54:55:035 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Click on the button 'Add to Cart'
+16-01-2021 14:54:55:523 [main] com.project.pom.PagePortarlWeb.PageProductDetails - Message is displayed: Agregado al carrito
+16-01-2021 14:54:57:008 [main] com.project.pom.PagePortarlWeb.PageShoppingCart - Entering to shopping cart
