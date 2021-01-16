@@ -93,8 +93,8 @@ git clone https://github.com/jotamvillegas/challenge-veritran.git
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/pathDriver.png)
 
-* Teniendo abierto el proyecto en nuestro IDE, ingresar a la clase "_General_" del package "_Helper_" y modificar la 
-  variable "_pathChromeDriver_" con el path del chromeDriver que hay en la carpeta contenedora. Ej:
+* Teniendo abierto el proyecto en nuestro IDE, ingresar a la clase "_General_" del package "_Helpers_" y modifíca la 
+  variable "_pathChromeDriver_" con el path del chromeDriver que reemplazaste en la carpeta contenedora. Ej:
 ```
 Chrome driver 87.0.4280.88/chromedriver_linux64/chromedriver
 ```
@@ -110,12 +110,12 @@ Para ejecutar nuestra suite de test, seguiremos los siguientes pasos:
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/dependencies.png)
   
-  * Verificar que el la configuración de ejecución sea la correcta. Como las imagenes siguientes lo muestran
+  * Verificar que la configuración de ejecución de TestNG sea la correcta. Como las imagenes siguientes lo muestran:
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runConfig01.png)
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runConfig02.png)
 
-* Ahora si ejecutamos nuestra  suite de test. Para eso ubicamos en nuestra raiz de proyecto el archivo "_SuiteGeneral.xml_", 
+* Ahora si ejecutamos nuestra  suite de test. Para ello, ubicamos en nuestra raiz de proyecto el archivo "_SuiteGeneral.xml_", 
 damos click derecho y luego click en "_Run_"
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runSuite.png)
@@ -128,7 +128,7 @@ Para la visualización de reportes de nuestros test, seguimos los siguientes pas
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report01.png)
 
-* Damos click en el archivo "_emailable-report.html_". Se nos abrira el reporte de las test en nuestro navegador.
+* Damos doble click en el archivo "_emailable-report.html_". Se nos abrira el reporte de las test en nuestro navegador.
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report02.png)
 
