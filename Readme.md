@@ -1,18 +1,17 @@
 # Tabla de contenidos
-1. [Información General](#Información general)
+1. [Información General](#Información-general)
 2. [Tecnologías](#tecnologias)
 3. [Instalación](#instalación)
 4. [Ejecución](#ejecución)
 
 
-## Información General
-***
+## 1. Información General
 Proyecto basado en un challenge de Veritran, con el propósito de realizar una pequeña automatización sobre la página 
 de "Amazon.com".
 
 Versión de automatización: v0.1 
 
-## Tecnologías
+## 2. Tecnologías
 ***
 Lista de tecnologías usadas en este proyecto:
 * [Apache Maven](https://maven.apache.org/): Es una herramienta de gestión y comprensión de proyectos de software. 
@@ -25,7 +24,7 @@ Lista de tecnologías usadas en este proyecto:
   Maven permite incluso buscar versiones más recientes o más antiguas de un código dado y agregarlas a nuestro 
   proyecto. Todo se hará de forma automática sin que el usuario tenga que hacer nada más que definir las dependencias.
 
-* [Selenium Webdriver](https://www.selenium.dev/): Selenium es un entorno de pruebas que se utiliza para comprobar si 
+* [Selenium Webdriver](https://www.selenium.dev/): Es un entorno de pruebas que se utiliza para comprobar si 
   el software que se está desarrollando funciona correctamente. Esta herramienta permite: grabar, editar y depurar casos 
   de pruebas que se pueden automatizar.
 
@@ -34,26 +33,31 @@ Lista de tecnologías usadas en este proyecto:
   de hecho entre sí no tienen nada que ver, aunque se usen mucho juntos, sino que lo podemos utilizar para pruebas 
   unitarias con java, para appium o cualquier otro framework basado en java.
 
-* [Log4J](https://logging.apache.org/log4j/2.x/): Es una biblioteca open source desarrollada en Java por la Apache 
+* [Log4J](https://logging.apache.org/log4j/2.x/): Es una biblioteca open source desarrollada en Java por Apache 
   Software Foundation que permite a los desarrolladores de software escribir mensajes de registro, cuyo propósito es 
-  dejar constancia de una determinada transacción en tiempo de ejecución.
+  dejar constancia de una determinada acción/transacción en tiempo de ejecución.
 
-* [Java](https://www.java.com/es/): Es un Lenguaje programación orientado a objetos. Tiene 4 conceptos como principales 
-  bases que son: Herencia, Abstracción, Polimorfismo y Encapsulación.
+* [Java](https://www.java.com/es/): Es un Lenguaje programación orientado a objetos, basado en la modularización del 
+  código. Tiene 4 conceptos teorico-prácticos como principales bases que son: Herencia, Abstracción, Polimorfismo y 
+  Encapsulación.
 
+* [GitHub](https://github.com/): Es un servicio en la nube que sirve para almacenar y administrar nuestro código, 
+  al igual que llevar un control de versionado. Una Versión de Control ayuda a los desarrolladores llevar un registro 
+  y administrar cualquier cambio en el código del proyecto de software.
 
-## Instalación
+## 3. Instalación
 ***
 #### Pre-Requisitos
 * Tener instalado el OpenJDK en nuestra PC. Para nuestro caso que trabajamos en ubuntu, se uso la versión JDK v1.8 y 
 el archivo se guardó la carpeta /opt de nuestro equipo.
-* Crear la variable de entorno JAVA_HOME y confiurar el PATH, añadiendo el directorio bin de java a la variable de
+* Crear la variable de entorno JAVA_HOME y configurar el PATH, añadiendo el directorio bin de java a la variable de
 entorno JAVA_HOME.
 * Tener un IDE instalado para abrir el proyecto y ejecutar los test. En nuestro caso usamos IntelliJ, podes usar el
 IDE con el que te sientas más familiarizado.
+* Tener instalado Git para la administración del versionado y/o clonación del repositorio remoto.
 
 #### Levantando nuestro proyecto
-  * 
+  * ![Reportes](https://github.com/jotamvillegas/ChallengeVeritran/src/main/resources/readmeImages/results.png)
 
 #### SetUp
 * Descargar el [ChromeDriver](https://chromedriver.chromium.org/) según la versión del navegador que tengas. 
@@ -67,5 +71,5 @@ chromeDriver que hay en la carpeta contenedora. Ej:
 Chrome driver 87.0.4280.88/chromedriver_linux64/chromedriver
 ```
 
-## Ejecución
+## 4. Ejecución
 ***
