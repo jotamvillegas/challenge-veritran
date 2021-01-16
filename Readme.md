@@ -3,6 +3,7 @@
 2. [Tecnologías](#tecnologias)
 3. [Instalación](#instalación)
 4. [Ejecución](#ejecución)
+5. [Reportes](#reportes)
 
 ## 1. Información General
 Proyecto basado en un challenge de Veritran, con el propósito de realizar una pequeña automatización sobre la página 
@@ -64,36 +65,73 @@ https://github.com/jotamvillegas/challenge-veritran.git
 
 ![clonProjectGithub](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/cloneProject.png)
   
-* Luego nos posicionamos en la ubicación de nuestra carpeta creada para poder clonar nuestro proyecto: 
+* Abrimos nuestro IDE y en la terminal nos posicionamos en la ubicación de nuestra carpeta creada para poder clonar 
+  nuestro proyecto: 
   
 ![locationProject](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/locationProject.png)
   
-* Sobre la terminal, escribimos el siguiente comando, y presionamos "Enter".
+* Escribimos o copiamos el siguiente comando, y presionamos "Enter".
 ``` 
 git clone https://github.com/jotamvillegas/challenge-veritran.git
 ```
+* Nuestro proyecto se clonara en nuestra carpeta contendora creada anteriormente.
 
 #### Configurando el SetUp
 * Descargar el [ChromeDriver](https://chromedriver.chromium.org/) según la versión del navegador que tenemos. Para 
   nuestro caso utilizamos el navegador chrome versión 87.0.4280.141. 
   
-  **NOTA:** Si tenés el mismo navegador con distinta versión, 
-  verifica que la descarga sea apta para el mismo. Si tenes otro navegador, descarga el driver correspondiente.
+  **NOTA:** 
+  * Si tenés el mismo navegador con distinta versión, verifica que la descarga sea apta para el mismo. 
+  * Si tenes otro navegador, descarga el driver correspondiente.
   
-* Una vez descargado y extraido del archivo .zip/.rar, copiar la carpeta contenedora en el siguiente path del proyecto:
+* Una vez descargado y extraido del archivo .zip/.rar, reemplaza la carpeta contenedora en la siguiente ruta de nuestro
+  proyecto:
+  
 ```
 /home/Jotam/Automation/ChallengeVeritran/src/main/resources
 ```
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/pathDriver.png)
 
-* Ingresar a la clase "_General_" del package "_Helper_" y modificar la variable "_pathChromeDriver_" con el path del 
-chromeDriver que hay en la carpeta contenedora. Ej:
+* Teniendo abierto el proyecto en nuestro IDE, ingresar a la clase "_General_" del package "_Helper_" y modificar la 
+  variable "_pathChromeDriver_" con el path del chromeDriver que hay en la carpeta contenedora. Ej:
 ```
 Chrome driver 87.0.4280.88/chromedriver_linux64/chromedriver
 ```
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/pathDriverClassGeneral.png)
 
-## 4. Ejecución
+* Si llegaste hasta aca, **_Felicidades!!_** ... vamos bien!
 
+## 4. Ejecución
+Para ejecutar nuestra suite de test, seguiremos los siguientes pasos:
+* Estando en nuestro proyecto, nos aseguramos que:
+  * Las dependencias del archivo pom.xml se hayan descargado correctamente.
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/dependencies.png)
+  
+  * Verificar que el la configuración de ejecución sea la correcta. Como las imagenes siguientes lo muestran
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runConfig01.png)
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runConfig02.png)
+
+* Ahora si ejecutamos nuestra  suite de test. Para eso ubicamos en nuestra raiz de proyecto el archivo "_SuiteGeneral.xml_", 
+damos click derecho y luego click en "_Run_"
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/runSuite.png)
+  
+* Si todo se ha configurado correctamente, veremos que empieza la automatización de nuestra suite de tests.
+
+## 5. Reportes
+Para la visualización de reportes de nuestros test, seguimos los siguientes pasos:
+* Nos dirijimos a la carpeta contenedora de nuestro archivo e ingresamos a la carpeta "_TestOutput_".
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report01.png)
+
+* Damos click en el archivo "_emailable-report.html_". Se nos abrira el reporte de las test en nuestro navegador.
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report02.png)
+
+* Con esto habremos culminado la automatización!
+
+### Muchas Gracias!!
