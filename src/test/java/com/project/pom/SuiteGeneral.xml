@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite Global" >
+    <test name ="Load Home Page">
+        <classes>
+            <class name="com.project.pom.Test_US01_ProductSearch.TestLoadHomePage"/>
+        </classes>
+    </test>
+    <test name ="Search Results">
+        <classes>
+            <class name="com.project.pom.Test_US01_ProductSearch.TestSearchResults"/>
+        </classes>
+    </test>
+    <test name ="Page Selected From Paginator">
+        <classes>
+            <class name="com.project.pom.Test_US01_ProductSearch.TestPageSelected"/>
+        </classes>
+    </test>
+    <test name ="Product Search Drone">
+        <classes>
+            <class name="com.project.pom.Test_US01_ProductSearch.TestProductSearch_Drone"/>
+        </classes>
+    </test>
+    <test name ="Add Product To Shopping Cart">
+        <classes>
+            <class name="com.project.pom.Test_US02_ShoppingCart.TestAddToShoppingCart"/>
+        </classes>
+    </test>
+    <test name ="Compare the product value with the product value in the shopping cart">
+        <classes>
+            <class name="com.project.pom.Test_US02_ShoppingCart.TestValueProductEqualToTheShoppingCart"/>
+        </classes>
+    </test>
+    <test name ="Remove product from shopping cart">
+        <classes>
+            <class name="com.project.pom.Test_US02_ShoppingCart.TestRemoveProductFromShoppingCart"/>
+        </classes>
+    </test>
+</suite>
