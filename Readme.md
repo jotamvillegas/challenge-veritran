@@ -4,7 +4,6 @@
 3. [Instalación](#instalación)
 4. [Ejecución](#ejecución)
 
-
 ## 1. Información General
 Proyecto basado en un challenge de Veritran, con el propósito de realizar una pequeña automatización sobre la página 
 de "Amazon.com".
@@ -12,7 +11,6 @@ de "Amazon.com".
 Versión de automatización: v0.1 
 
 ## 2. Tecnologías
-***
 Lista de tecnologías usadas en este proyecto:
 * [Apache Maven](https://maven.apache.org/): Es una herramienta de gestión y comprensión de proyectos de software. 
   Basado en el concepto de un modelo de objetos de proyecto (POM).
@@ -46,31 +44,56 @@ Lista de tecnologías usadas en este proyecto:
   y administrar cualquier cambio en el código del proyecto de software.
 
 ## 3. Instalación
-***
+
 #### Pre-Requisitos
-* Tener instalado el OpenJDK en nuestra PC. Para nuestro caso que trabajamos en ubuntu, se uso la versión JDK v1.8 y 
-el archivo se guardó la carpeta /opt de nuestro equipo.
+* Tener instalado el OpenJDK en nuestra PC. Para nuestro caso (trabajando en ubuntu), se uso la versión JDK v1.8 y 
+el archivo se guardó la carpeta /opt de nuestro equipo con permisos de lectura y escritura.
 * Crear la variable de entorno JAVA_HOME y configurar el PATH, añadiendo el directorio bin de java a la variable de
 entorno JAVA_HOME.
-* Tener un IDE instalado para abrir el proyecto y ejecutar los test. En nuestro caso usamos IntelliJ, podes usar el
-IDE con el que te sientas más familiarizado.
+* Tener un IDE instalado para clonar, abrir el proyecto y ejecutar los test. En nuestro caso usamos IntelliJ, podes 
+  usar el IDE con el que te sientas más familiarizado.
 * Tener instalado Git para la administración del versionado y/o clonación del repositorio remoto.
 
-#### Levantando nuestro proyecto
-  * ![Reportes](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/results.png)
-    
+#### Clonando nuestro proyecto desde GitHub
+* Creamos una carpeta donde vamos a clonar nuestro proyecto.
+* Ingresamos a la dirección de git que contiene nuestro proyecto: 
+``` 
+https://github.com/jotamvillegas/challenge-veritran.git 
+```
+* Copiamos la URL para la clonación, como se visualiza en la imágen:
 
-#### SetUp
-* Descargar el [ChromeDriver](https://chromedriver.chromium.org/) según la versión del navegador que tengas. 
+![clonProjectGithub](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/cloneProject.png)
+  
+* Luego nos posicionamos en la ubicación de nuestra carpeta creada para poder clonar nuestro proyecto: 
+  
+![locationProject](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/locationProject.png)
+  
+* Sobre la terminal, escribimos el siguiente comando, y presionamos "Enter".
+``` 
+git clone https://github.com/jotamvillegas/challenge-veritran.git
+```
+
+#### Configurando el SetUp
+* Descargar el [ChromeDriver](https://chromedriver.chromium.org/) según la versión del navegador que tenemos. Para 
+  nuestro caso utilizamos el navegador chrome versión 87.0.4280.141. 
+  
+  **NOTA:** Si tenés el mismo navegador con distinta versión, 
+  verifica que la descarga sea apta para el mismo. Si tenes otro navegador, descarga el driver correspondiente.
+  
 * Una vez descargado y extraido del archivo .zip/.rar, copiar la carpeta contenedora en el siguiente path del proyecto:
 ```
 /home/Jotam/Automation/ChallengeVeritran/src/main/resources
 ```
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/pathDriver.png)
+
 * Ingresar a la clase "_General_" del package "_Helper_" y modificar la variable "_pathChromeDriver_" con el path del 
 chromeDriver que hay en la carpeta contenedora. Ej:
 ```
 Chrome driver 87.0.4280.88/chromedriver_linux64/chromedriver
 ```
 
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/pathDriverClassGeneral.png)
+
 ## 4. Ejecución
-***
+
