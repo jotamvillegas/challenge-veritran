@@ -128,9 +128,13 @@ Para la visualización de reportes de nuestros test, seguimos los siguientes pas
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report01.png)
 
-* Damos doble click en el archivo "_emailable-report.html_". Se nos abrira el reporte de las test en nuestro navegador.
+* Damos doble click en el archivo "_emailable-report.html_".
 
 ![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/report02.png)
+
+* Se nos abrira el reporte de las test en nuestro navegador.
+
+![pathDriverLocation](https://github.com/jotamvillegas/challenge-veritran/blob/master/src/main/resources/readmeImages/results.png)
 
 * Con esto habremos culminado la automatización!
 
